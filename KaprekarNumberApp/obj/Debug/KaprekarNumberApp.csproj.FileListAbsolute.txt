@@ -1,0 +1,55 @@
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe.config
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csprojResolveAssemblyReference.cache
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Form1.resources
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Properties.Resources.resources
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csproj.GenerateResource.Cache
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb
+E:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe.config
+E:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
+E:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb
+E:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe
+E:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.pdb
+E:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.exe
+E:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.pdb
+E:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csprojResolveAssemblyReference.cache
+E:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Form1.resources
+E:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Properties.Resources.resources
+E:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csproj.GenerateResource.Cache
+F:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe.config
+F:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
+F:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb
+F:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe
+F:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.pdb
+F:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.exe
+F:\NET\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.pdb
+F:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csprojResolveAssemblyReference.cache
+F:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Form1.resources
+F:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Properties.Resources.resources
+F:\NET\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csproj.GenerateResource.Cache
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe.config
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csprojResolveAssemblyReference.cache
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Form1.resources
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Properties.Resources.resources
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csproj.GenerateResource.Cache
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe.config
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.pdb
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.exe
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\bin\Debug\KaprekarNumbers.pdb
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csprojResolveAssemblyReference.cache
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Form1.resources
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.Properties.Resources.resources
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csproj.GenerateResource.Cache
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb

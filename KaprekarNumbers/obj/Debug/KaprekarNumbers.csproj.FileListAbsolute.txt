@@ -1,0 +1,30 @@
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe.config
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.pdb
+E:\NET\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe.config
+E:\NET\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.exe
+E:\NET\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.pdb
+E:\NET\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.csprojResolveAssemblyReference.cache
+E:\NET\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe
+E:\NET\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.pdb
+F:\NET\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe.config
+F:\NET\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe
+F:\NET\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.pdb
+F:\NET\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.csprojResolveAssemblyReference.cache
+F:\NET\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.exe
+F:\NET\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe.config
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.pdb
+C:\Users\capta\Google Drive\Spring_2017\CIS_622_.NET\labs\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe.config
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.exe
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\bin\Debug\KaprekarNumbers.pdb
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.exe
+C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumbers\obj\Debug\KaprekarNumbers.pdb
