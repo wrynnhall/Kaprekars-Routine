@@ -53,3 +53,6 @@ C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\Kapreka
 C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.csproj.GenerateResource.Cache
 C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
 C:\Users\HallTech\Google Drive\Spring_2017\CIS_622_.NET\Daily_Programmer\KaprekarsConstant\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb
+C:\Users\HallTech\Google Drive\Projects\Kaprekars-Routine\KaprekarNumberApp\bin\Debug\KaprekarNumberApp.exe.config
+C:\Users\HallTech\Google Drive\Projects\Kaprekars-Routine\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.exe
+C:\Users\HallTech\Google Drive\Projects\Kaprekars-Routine\KaprekarNumberApp\obj\Debug\KaprekarNumberApp.pdb

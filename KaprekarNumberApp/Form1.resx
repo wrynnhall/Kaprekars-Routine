@@ -118,8 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label5.Text" xml:space="preserve">
-    <value>1) The number must be four digit number 
-between 0000 and 1000 (noninclusive)
+    <value>1) The number must be a four digit number 
+between 0000 and 10000 (exclusive).
 
 2) There must be at least two unique digits
 within the number. ex: 3333 is not valid,
